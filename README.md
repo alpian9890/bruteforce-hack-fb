@@ -1,6 +1,6 @@
-# multi-bruteforce-facebook
-# author pirmansx
-# dragonfly zombie team
+# bruteforce-hack-facebook
+# author alpian9890
+# CtrX Squad
 # language python 2
 
 Cara gunakan:
@@ -12,3 +12,5 @@ pip2 install mechanize
 I just want say do not use this tool for illegal purpos
 Jika ada bug silah kan beritahu saya....
 Jika ada saran silah kan beritahu saya
+
+# Anda-sopan-kami-curiga
