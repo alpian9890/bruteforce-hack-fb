@@ -10,8 +10,9 @@ pip2 install mechanize
 
 
 I just want say do not use this tool for illegal purpos
-Jika ada bug silah kan beritahu saya....
+Jika ada bug silahkan beritahu saya....
 Jika ada saran, tolong beri tahu saya
 - @alpian9890
 
 # Anda-sopan-kami-curiga
+©2018
